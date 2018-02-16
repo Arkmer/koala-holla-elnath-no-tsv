@@ -1,0 +1,31 @@
+#headerInfo{
+    float: left;
+    padding: 20px;
+}
+
+#headerImage{
+    width: 200px;
+    float: left;
+}
+
+#fullHeader{
+    background-color: royalblue;
+    padding: 20px;
+    height: 200px;
+}
+
+.editKoala{
+    float: right;
+}
+
+.saveKoalaNote{
+    float: right;
+}
+
+.keep{
+    width: 100%;
+}
+
+.transfer{
+    width: 100%;
+}

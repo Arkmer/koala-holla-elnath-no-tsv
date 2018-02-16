@@ -100,8 +100,8 @@ function koalaDisplay(koalaArray){
   $('td').css("padding-left", "10px");
   $('td').css("font-family", "monospace");
   $('td').css("color", "#0E1828");
-  $('tr:odd').css("background-color", "#DCDCDE");
-  $('tr:even').css("background-color", "#A4A7AB");
+  $('tr:odd').css("background-color", "LightSteelBlue");
+  $('tr:even').css("background-color", "CornflowerBlue");
 
   $('#nameIn').val('');
   $('#ageIn').val('');
